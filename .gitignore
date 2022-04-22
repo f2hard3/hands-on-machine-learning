@@ -1,3 +1,6 @@
+datasets/
+
+
 build/
 coverage/
 npm-debug.log
